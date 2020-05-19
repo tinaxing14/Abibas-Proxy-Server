@@ -1,0 +1,7 @@
+version: '3.4'
+
+services:
+  proxy:
+    build: .
+    ports:
+      - '80:3000' 
