@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "node server.js",
-    "server-dev": "open localhost:3000 && nodemon server.js"
+    "server-dev": "open localhost:3007 && nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.3",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.0"
   }
 }
