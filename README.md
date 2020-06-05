@@ -1,4 +1,4 @@
-# alex-proxy-server
+# ShoeCase-proxy-server
 
 Setup
 -----
